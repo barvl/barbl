@@ -1,4 +1,4 @@
-# 👩‍💻 Bárbara Badillo
+# ────୨👩‍💻 Soy Bárbara Badillo ৎ────
 
 🎯 Ingeniera en Sistemas Computacionales con enfoque en análisis de datos y desarrollo de soluciones basadas en datos.
 
@@ -17,8 +17,8 @@ Me especializo en el análisis de datos, la visualización y el diseño de bases
 - SQL (MySQL)
 - Power BI
 - Modelado de bases de datos
-- DAX (básico)
 - Git & GitHub
+- C#
 
 ---
 
